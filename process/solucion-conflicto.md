@@ -1,1 +1,0 @@
-solucion de conflicto

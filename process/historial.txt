@@ -1,0 +1,9 @@
+*   fde9674 (HEAD -> master) resuelto el conflicto en user.controller.js
+|\  
+| * ebdd511 (conflicto) agregando contendio en rama conflicto
+* | fc145b2 cambio en rama master en misma linea de rama
+|/  
+* b252541 (feature/user-controller1) Agregando comentarios en archivo user.controller.js
+* e8765a0 (origin/master, origin/HEAD) revisando problemas
+* f7a9d7a (feature/user-controller) segundo commit
+* 259b94b iniciando proyecto backend con .gitignore
